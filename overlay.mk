@@ -30,6 +30,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-duoqin-qinf21pro \
 	treble-overlay-essential-ph_1 \
 	treble-overlay-fairphone-fp3 \
+	treble-overlay-freeyond-m5a \
 	treble-overlay-highpriomisc \
 	treble-overlay-htc-exodus1 \
 	treble-overlay-htc-u12plus \
